@@ -1,13 +1,10 @@
-# survival
+# survive
 
-R code and notes on performing survival analysis
+R (and possible Python) code and notes on performing survival analysis.
 
-## Definitions
+## License
 
-- **failure** - the time a particular event (e.g. death, mechanical failure,
-  graduation) occurs
-- **time-to-event data** - times series data until one or more events happen
-  ("failure")
-- **censoring** - whenever failure is not observed
-- **survival analysis** - statistical analysis of time-to-event-data taking into
-  account censored data
+<a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+  <img src="https://licensebuttons.net/p/zero/1.0/80x15.png"
+    style="border-style: none;" alt="CC0" />
+</a>
