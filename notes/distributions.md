@@ -51,3 +51,13 @@ Also known as the negative exponential distribution.
 ```r
 
 ```
+
+## The Weibull Distribution
+
+## The Extreme (Minimum) Value Distribution
+
+## The Log-Normal Distribution
+
+## The Log-Logistic Distribution
+
+## The Gamma Distribution
